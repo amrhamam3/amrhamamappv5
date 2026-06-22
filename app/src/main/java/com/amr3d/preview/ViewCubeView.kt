@@ -64,7 +64,7 @@ class ViewCubeView(context: Context, attrs: AttributeSet? = null) : View(context
     }
     private val circleBgPaint = Paint(Paint.ANTI_ALIAS_FLAG).apply {
         style = Paint.Style.FILL
-        color = Color.parseColor("#1A1D24CC".toInt(16).let { Color.argb(200, 26, 29, 36) })
+        color = Color.argb(200, 26, 29, 36)
     }
 
     // مناطق الضغط
