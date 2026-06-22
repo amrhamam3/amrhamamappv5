@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amr3D Preview</string>
+    <string name="open_file">فتح ملف STL</string>
+    <string name="no_file_loaded">لا يوجد ملف محمّل</string>
+    <string name="measure_tool">أداة القياس</string>
+    <string name="inspect_tool">فحص الموديل</string>
+    <string name="reset_view">إعادة ضبط العرض</string>
+    <string name="clear_points">مسح النقاط</string>
+    <string name="distance_label">المسافة:</string>
+    <string name="whatsapp_contact">تواصل عبر واتساب</string>
+    <string name="whatsapp_number">201009172167</string>
+    <string name="whatsapp_message">مرحبًا، عندي استفسار بخصوص تطبيق Amr3D Preview</string>
+    <string name="wireframe">شبكي</string>
+    <string name="color_tool">اللون</string>
+    <string name="unit_mm">مم</string>
+    <string name="unit_cm">سم</string>
+    <string name="unit_inch">بوصة</string>
+    <string name="export_image">تصدير صورة</string>
+    <string name="choose_color">اختر لون الموديل</string>
+    <string name="export_success">تم حفظ الصورة</string>
+</resources>
